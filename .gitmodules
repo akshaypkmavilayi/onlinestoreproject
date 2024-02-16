@@ -1,0 +1,4 @@
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/akshaypkmavilayi/onlinestore.git
+	branch = 60df2784d9bff449136d4cce9c6ed128cd47a28d
